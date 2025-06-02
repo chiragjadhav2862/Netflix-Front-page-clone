@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 70px;
+    background-color: black;
+    color: Red;
+    
+}
+.navhead{
+    font-size: 40px;
+    padding: 10px;
+    display: inline-block;
+}
+.home{
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 850px;
+    padding: 10px;
+}
+.lang{
+     font-size: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 10px;
+}
+.log{
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 10px;
+}
+body{
+    background-image:url(bgbg.jpg);
+    background-size: cover;
+   height: 500px;
+}
+.main
+{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin-top: 150px;
+   
+    
+
+
+}
+.ele{
+    color: rgb(221, 9, 9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+
+}
+.money{
+    color: rgb(241, 239, 239);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+.watch{
+    color: white;
+    font-size:25px;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 70px;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+#textx{
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border: 2px solid red;
+    display: inline;
+    
+}
+footer{
+    background-color: black;
+    height: 85px;
+    margin-top: 220px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+.end{
+    font-size: 40px;
+    margin-top: 20px;
+    
+}
